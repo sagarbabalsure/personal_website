@@ -1,6 +1,8 @@
 baseurl = "http://www.example.com"
+publishDir = 'docs'
 title = "Vidhyasagar"
 theme = "coder-portfolio"
+
 
 DefaultContentLanguage = "en"
 
