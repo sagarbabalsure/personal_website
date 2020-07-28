@@ -1,4 +1,4 @@
-baseurl = "https://sagarbabalsure.github.io/sagar/"
+BaseURL = "https://sagarbabalsure.github.io/sagar/"
 publishDir = 'docs'
 title = "Vidhyasagar"
 theme = "coder-portfolio"
