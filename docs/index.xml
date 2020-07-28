@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>vidhyasagar babalsure</title>
-    <link>http://www.example.com/</link>
+    <link>https://sagarbabalsure.github.io/sagar/</link>
     <description>Recent content on vidhyasagar babalsure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 26 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sagarbabalsure.github.io/sagar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello world!</title>
-      <link>http://www.example.com/posts/helloworld/</link>
+      <link>https://sagarbabalsure.github.io/sagar/posts/helloworld/</link>
       <pubDate>Sun, 26 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/helloworld/</guid>
+      <guid>https://sagarbabalsure.github.io/sagar/posts/helloworld/</guid>
       <description>Hello world Hi, all this is my first blog in the world of programming.</description>
     </item>
     
     <item>
       <title>Theme Demo</title>
-      <link>http://www.example.com/posts/theme-demo/</link>
+      <link>https://sagarbabalsure.github.io/sagar/posts/theme-demo/</link>
       <pubDate>Fri, 03 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/theme-demo/</guid>
+      <guid>https://sagarbabalsure.github.io/sagar/posts/theme-demo/</guid>
       <description>Style Demo h1 Heading h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading  This is bold text
 This is bold text
 This is italic text
@@ -38,10 +38,10 @@ $$ \sum_{n=1}^{\infty} 2^{-n} = 1 $$
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>http://www.example.com/posts/hugoisforlovers/</link>
+      <link>https://sagarbabalsure.github.io/sagar/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/posts/hugoisforlovers/</guid>
+      <guid>https://sagarbabalsure.github.io/sagar/posts/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at installing hugo
@@ -52,10 +52,10 @@ Follow the following steps:
     
     <item>
       <title>About Me</title>
-      <link>http://www.example.com/about/</link>
+      <link>https://sagarbabalsure.github.io/sagar/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>https://sagarbabalsure.github.io/sagar/about/</guid>
       <description>Hi , I am vidhyasagar babalsure
 I am tireless seeker of knowledge and passionate about machine learning.Basically I am from Latur district in Maharashatra.
 I have completed my 12th from Modern college of shivajinagar,pune with 79.08% and currently pursuing B.Tech undergrad degree at Raisoni Institute of Pune in Computer Science.
@@ -64,20 +64,20 @@ I am well knowledged about the programming languages like PYTHON, C++, JAVA and 
     
     <item>
       <title>Contact</title>
-      <link>http://www.example.com/contact/</link>
+      <link>https://sagarbabalsure.github.io/sagar/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/contact/</guid>
+      <guid>https://sagarbabalsure.github.io/sagar/contact/</guid>
       <description>Want Contact? 7709510027
 Have questions or suggestions? Feel free to open an issue on GitHub or ask me on Twitter.</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://www.example.com/projects/</link>
+      <link>https://sagarbabalsure.github.io/sagar/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/</guid>
+      <guid>https://sagarbabalsure.github.io/sagar/projects/</guid>
       <description>Expense Tracker  The Purpose of this application is to track our daily expenses hassle-free. This web application is using Django 3 as backend, HTML, CSS, JS as front-end and PostgreSQL as a database. PROJECT LINK   Youtube downloader  This is a simple command-line interface for downloading videos and audios from you- tube. I have implemented it using Python3.6. For downloading just paste the youtube link and select resolution.</description>
     </item>
     

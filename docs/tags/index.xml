@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on vidhyasagar babalsure</title>
-    <link>http://www.example.com/tags/</link>
+    <link>https://sagarbabalsure.github.io/sagar/tags/</link>
     <description>Recent content in Tags on vidhyasagar babalsure</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sagarbabalsure.github.io/sagar/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>development</title>
-      <link>http://www.example.com/tags/development/</link>
+      <link>https://sagarbabalsure.github.io/sagar/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/development/</guid>
+      <guid>https://sagarbabalsure.github.io/sagar/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>http://www.example.com/tags/go/</link>
+      <link>https://sagarbabalsure.github.io/sagar/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/go/</guid>
+      <guid>https://sagarbabalsure.github.io/sagar/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>http://www.example.com/tags/golang/</link>
+      <link>https://sagarbabalsure.github.io/sagar/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/golang/</guid>
+      <guid>https://sagarbabalsure.github.io/sagar/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://www.example.com/tags/hugo/</link>
+      <link>https://sagarbabalsure.github.io/sagar/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/tags/hugo/</guid>
+      <guid>https://sagarbabalsure.github.io/sagar/tags/hugo/</guid>
       <description></description>
     </item>
     
