@@ -1,7 +1,18 @@
+<style type="text/css">
+  .avatar img {
+      width: 20rem;
+      height: auto;
+      border-radius: 50%;
+      @media only screen and (max-device-width: 768px) {
+        width: 10rem;
+  }
+}
+</style>
+
 <section class="container centered">
   <div class="about">
     {{ with .Site.Params.avatarurl }}
-      <div class="avatar"><img src="{{ . | absURL }}" alt="avatar" style="width:15rem"></div>
+      <div class="avatar"><img src="{{ . | absURL }}" alt="avatar" style="width:15rem" ></div>
     {{ end }}
     <h1 style="text-transform: capitalize;">{{ .Site.Params.author }}</h1>
     <pre style="font-family: 'Roboto'">"A skilled, competent, and diligent individual is seeking an opportunity
